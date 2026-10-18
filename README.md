@@ -6,14 +6,13 @@
 </h1>
 
 
-<h3 align="center">
-  <span style="color:#D96C91;">QA Engineer</span>
-  |
-  <span style="color:#A78BBA;">Fullstack QA</span>
-  |
-  <span style="color:#C17D8A;">Manual &amp; Automation Testing</span>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D96C91&center=true&vCenter=true&width=700&lines=QA+Engineer+%7C+Fullstack+QA+%7C+Manual+%26+Automation+Testing" alt="QA Engineer | Fullstack QA | Manual & Automation Testing"/>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices" alt="Typing SVG"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices" alt="Typing SVG" />
