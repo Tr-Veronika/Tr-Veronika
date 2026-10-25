@@ -5,8 +5,8 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="42"/>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D96C91&center=true&vCenter=true&width=700&lines=QA+Engineer+%7C+Fullstack+QA+%7C+Manual+%26+Automation+Testing" alt="QA Engineer | Fullstack QA | Manual & Automation Testing"/>
+<p align="center" color="E75480">
+  QA Engineer | Fullstack QA | Manual & Automation Testing
 </p>
 
 <p align="center">
