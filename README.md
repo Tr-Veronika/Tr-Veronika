@@ -133,3 +133,17 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+
+## 🧪 Featured QA Projects
+
+### NASA API Testing
+Automated API tests using Python, pytest and Requests.
+
+[View Repository](https://github.com/Tr-Veronika/nasa-api-pytest)
+
+### QA Portfolio
+A portfolio website showcasing my QA skills and projects.
+
+[View Portfolio](https://github.com/Tr-Veronika/Tr-Veronika.github.io)
+
