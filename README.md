@@ -5,8 +5,10 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="42"/>
 </h1>
 
-<p align="center" color="E75480">
-  QA Engineer | Fullstack QA | Manual & Automation Testing
+<p align="center">
+  <span style="color:#D85B83;">
+    QA Engineer | Fullstack QA | Manual &amp; Automation Testing
+  </span>
 </p>
 
 <p align="center">
