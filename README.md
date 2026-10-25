@@ -18,6 +18,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices" alt="Typing SVG"/>
 </p>
 
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tr-Veronika&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr-Veronika&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tr-Veronika&theme=default&hide_border=true)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tr-Veronika&theme=flat&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tr-Veronika&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tr-Veronika&theme=default)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tr-Veronika&color=9675AD&style=flat-square&label=Profile+Views)
+
+
 ## 🐍 Programming & Test Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
