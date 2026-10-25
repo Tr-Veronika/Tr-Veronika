@@ -5,11 +5,12 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="42"/>
 </h1>
 
-<p align="center">
-  <span style="color:#D85B83;">
-    QA Engineer | Fullstack QA | Manual &amp; Automation Testing
-  </span>
-</p>
+<h2 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=1&pause=999999&color=D85B83&center=true&vCenter=true&width=750&lines=QA+Engineer+%7C+Fullstack+QA+%7C+Manual+%26+Automation+Testing"
+    alt="QA Engineer | Fullstack QA | Manual & Automation Testing"
+  />
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices" alt="Typing SVG"/>
