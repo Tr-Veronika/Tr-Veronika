@@ -8,7 +8,7 @@
 
 <h2 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Arial&size=24&duration=1&pause=999999&color=7575ad&center=true&vCenter=true&width=750&lines=QA+Engineer+%7C+Fullstack+QA+%7C+Manual+%26+Automation+Testing"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=1&pause=999999&color=7575ad&center=true&vCenter=true&width=750&lines=QA+Engineer+%7C+Fullstack+QA+%7C+Manual+%26+Automation+Testing"
     alt="QA Engineer | Fullstack QA | Manual & Automation Testing"
   />
 </h2>
