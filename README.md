@@ -6,12 +6,20 @@
 </h1>
 
 
-<h2 align="center">
+
+<p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=1&pause=999999&color=E75480&center=true&vCenter=true&width=750&lines=QA+Engineer+%7C+Fullstack+QA+%7C+Manual+%26+Automation+Testing"
     alt="QA Engineer | Fullstack QA | Manual & Automation Testing"
   />
-</h2>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=007700&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices"
+    alt="Typing SVG"
+  />
+</p>
 
 <h3 align="left">📫 Contact</h3>
 
@@ -30,9 +38,6 @@
 
 ## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=007700&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices" alt="Typing SVG"/>
-</p>
 
 
 QA Engineer focused on Fullstack Testing, with a degree in Software Engineering and additional training in Applied AI and System Administration.
