@@ -18,7 +18,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=007700&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices" alt="Typing SVG"/>
 </p>
 
+## 👩‍💻 About Me
 
+QA Engineer focused on Fullstack Testing, with a degree in Software Engineering and additional training in Applied AI and System Administration.
+
+- 🔍 Focused on product quality, risk-based testing, critical user scenarios, and data integrity.
+- 🔌 Exploring API, backend, and microservices testing with Postman, SQL, and related tools.
+- 🐍 Developing test automation skills with Python, pytest, and Requests.
+- ⚙️ Learning application infrastructure, Linux, logs, Docker, and CI/CD to investigate defects more effectively.
+- 📝 Experienced in analyzing requirements, identifying risks, and documenting reproducible defects.
+
+### 📫 Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/veronika_t6)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:veronika.tru6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E8A0BF?style=flat-square&logo=googlechrome&logoColor=white)](https://tr-veronika.github.io/)
 
 ## 📈 GitHub Stats
 
@@ -145,6 +159,8 @@
 ![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
+<br><br>
+<br><br>
 
 ## 🧪 Featured QA Projects
 
