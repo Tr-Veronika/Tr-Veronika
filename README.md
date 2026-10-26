@@ -20,15 +20,14 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <br>
-  <a href="mailto:veronika.tru6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <code>veronika.tru6@gmail.com</code>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:veronika.tru6@gmail.com">veronika.tru6@gmail.com</a>
   <br>
   <a href="https://tr-veronika.github.io/">
     <img src="https://img.shields.io/badge/QA_Portfolio-E8A0BF?style=flat-square&logo=googlechrome&logoColor=white" alt="QA Portfolio">
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=007700&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices" alt="Typing SVG"/>
