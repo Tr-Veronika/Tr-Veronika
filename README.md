@@ -160,7 +160,6 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 <br><br>
-<br><br>
 
 ## 🧪 Featured QA Projects
 
