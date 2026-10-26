@@ -31,7 +31,7 @@
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tr-Veronika&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tr-Veronika&theme=flat&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tr-Veronika)](https://github.com/Tr-Veronika/github-profile-trophy)
 
 
 
