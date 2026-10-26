@@ -28,6 +28,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tr-Veronika&theme=default&hide_border=true)
 
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tr-Veronika&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tr-Veronika&theme=flat&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 
