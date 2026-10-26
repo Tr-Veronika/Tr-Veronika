@@ -8,14 +8,14 @@
 
 <h2 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=1&pause=999999&color=7575ad&center=true&vCenter=true&width=750&lines=QA+Engineer+%7C+Fullstack+QA+%7C+Manual+%26+Automation+Testing"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&size=24&duration=1&pause=999999&color=E75480&center=true&vCenter=true&width=750&lines=QA+Engineer+%7C+Fullstack+QA+%7C+Manual+%26+Automation+Testing"
     alt="QA Engineer | Fullstack QA | Manual & Automation Testing"
   />
 </h2>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E75480&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=#007700&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices" alt="Typing SVG"/>
 </p>
 
 
