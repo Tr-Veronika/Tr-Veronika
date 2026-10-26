@@ -15,10 +15,10 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=007700&center=true&vCenter=true&width=650&lines=Testing+Web+Applications+%26+APIs;Python+%7C+pytest+%7C+REST+API;Exploring+Backend+%26+Microservices"
-    alt="Typing SVG"
-  />
+  <a href="https://github.com/Tr-Veronika">
+    <img src="https://github-stats-extended.vercel.app/api/?username=Tr-Veronika&show_icons=true&theme=default&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats&disable_animations=true&number_format=long&hide_border=true" height="165" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr-Veronika&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
 
 <h3 align="left">📫 Contact</h3>
