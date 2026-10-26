@@ -13,9 +13,9 @@
   />
 </h2>
 
-<h3 align="right">📫 Contact</h3>
+<h3 align="center">📫 Contact</h3>
 
-<p align="right">
+<p align="center">
   <a href="https://t.me/veronika_t6">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
