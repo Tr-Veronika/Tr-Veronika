@@ -13,16 +13,14 @@
   />
 </h2>
 
-<h3 align="center">📫 Contact</h3>
+<h3 align="left">📫 Contact</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://t.me/veronika_t6">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="mailto:veronika.tru6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
   <br>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   <a href="mailto:veronika.tru6@gmail.com">veronika.tru6@gmail.com</a>
   <br>
   <a href="https://tr-veronika.github.io/">
