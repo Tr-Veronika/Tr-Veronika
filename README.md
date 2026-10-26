@@ -30,11 +30,9 @@
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Tr-Veronika&theme=flat&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tr-Veronika&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tr-Veronika&theme=default)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tr-Veronika&color=9675AD&style=flat-square&label=Profile+Views)
+
 
 
 ## 🐍 Programming & Test Automation
