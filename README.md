@@ -53,12 +53,11 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tr-Veronika&show_icons=true&theme=default&hide_border=true&hide=rank" height="165" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=Tr-Veronika&show_icons=true&theme=default&hide_border=true&hide=rank](https://github-stats-extended.vercel.app/api/?username=Tr-Veronika&show_icons=true&theme=default&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats&disable_animations=true&number_format=long&hide_border=true)" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr-Veronika&layout=compact&theme=default&hide_border=true" height="165" />
   
 </p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=Tr-Veronika&show_icons=true&theme=default&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats&disable_animations=true&number_format=long&hide_border=true)](https://github.com/Tr-Veronika)
 
 ## 🐍 Programming & Test Automation
 
