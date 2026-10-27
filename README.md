@@ -47,14 +47,14 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
 - ⚙️ Learning application infrastructure, Linux, logs, Docker, and CI/CD to investigate defects more effectively.
 - 📝 Experienced in analyzing requirements, identifying risks, and documenting reproducible defects.
 
-
-
 <p align="center">
   <a href="https://github.com/Tr-Veronika">
     <img src="https://github-stats-extended.vercel.app/api/?username=Tr-Veronika&show_icons=true&theme=default&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats&disable_animations=true&number_format=long&hide_border=true" height="165" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr-Veronika&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
+
+<br>
 
 ## API & Backend
 
@@ -89,7 +89,7 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" width="48" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" width="48" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png" width="48" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" width="48" />
+  <!-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cassandra.png" width="48" /> -->
 </p>
 
 ## Logs & Monitoring
@@ -165,14 +165,24 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
  <!-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" width="48" /> -->
 </p>
 
-# 🎓 Education
+<br>
 
-- Bachelor's Degree in Software Engineering · 2025
-- DevOps Engineering & ICT Systems Administration · 2023
-- Applied Artificial Intelligence Analyst · 2023
+## 🎓 Education
 
+**Bachelor's Degree in Software Engineering** · 2025
 
-# 📚 Professional Development
+[<img src="/diploma_SoftwareEngineering.png" width="280px" hspace="10px" alt="Bachelor's Degree in Software Engineering">](https://raw.githubusercontent.com/Tr-Veronika/Tr-Veronika/refs/heads/main/diploma_SoftwareEngineering.png)
 
-- QA Engineering · 2026
+<br>
 
+## 📚 Professional Development
+
+- **QA Engineering** · 2026
+- **DevOps Engineering & ICT Systems Administration** · 2023
+- **Applied Artificial Intelligence Analyst** · 2023
+
+[<img src="/QAStudio_QAEngineering.png" width="280px" hspace="10px" alt="QA Engineering Certificate">](https://raw.githubusercontent.com/Tr-Veronika/Tr-Veronika/refs/heads/main/QAStudio_QAEngineering.png)
+[<img src="/diploma_DevOPS.png" width="280px" hspace="10px" alt="DevOps Engineering Diploma">](https://raw.githubusercontent.com/Tr-Veronika/Tr-Veronika/refs/heads/main/diploma_DevOPS.png)
+[<img src="/diploma_AI.png" width="280px" hspace="10px" alt="Applied Artificial Intelligence Diploma">](https://raw.githubusercontent.com/Tr-Veronika/Tr-Veronika/refs/heads/main/diploma_AI.png)
+
+<br>
