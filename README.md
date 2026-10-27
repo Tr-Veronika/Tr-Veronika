@@ -164,19 +164,3 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" width="48" />
  <!-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" width="48" /> -->
 </p>
-
-
-<br><br>
-
-## 🧪 Featured QA Projects
-
-### NASA API Testing
-Automated API tests using Python, pytest and Requests.
-
-[View Repository](https://github.com/Tr-Veronika/nasa-api-pytest)
-
-### QA Portfolio
-A portfolio website showcasing my QA skills and projects.
-
-[View Portfolio](https://github.com/Tr-Veronika/Tr-Veronika.github.io)
-
