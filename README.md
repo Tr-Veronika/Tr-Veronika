@@ -164,3 +164,15 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kafka.png" width="48" />
  <!-- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rabbitmq.png" width="48" /> -->
 </p>
+
+# 🎓 Education
+
+- Bachelor's Degree in Software Engineering · 2025
+- DevOps Engineering & ICT Systems Administration · 2023
+- Applied Artificial Intelligence Analyst · 2023
+
+
+# 📚 Professional Development
+
+- QA Engineering · 2026
+
