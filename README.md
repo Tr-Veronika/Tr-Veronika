@@ -49,8 +49,6 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
 
 
 
-## 📈 GitHub Stats
-
 <p align="center">
   <a href="https://github.com/Tr-Veronika">
     <img src="https://github-stats-extended.vercel.app/api/?username=Tr-Veronika&show_icons=true&theme=default&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats&disable_animations=true&number_format=long&hide_border=true" height="165" />
