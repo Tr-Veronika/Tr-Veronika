@@ -22,7 +22,7 @@
   </a>
   <br>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
-
+  <a href="mailto:veronika.tru6@gmail.com"></a>
   <br>
   <a href="https://tr-veronika.github.io/">
     <img src="https://img.shields.io/badge/QA_Portfolio-E8A0BF?style=flat-square&logo=googlechrome&logoColor=white" alt="QA Portfolio">
