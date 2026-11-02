@@ -48,10 +48,8 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
 - 📝 Experienced in analyzing requirements, identifying risks, and documenting reproducible defects.
 
 <p align="center">
-  <a href="https://github.com/Tr-Veronika">
-    <img src="https://github-stats-extended.vercel.app/api/?username=Tr-Veronika&show_icons=true&theme=default&rank_icon=github&include_all_commits=true&custom_title=GitHub+Stats&disable_animations=true&number_format=long&hide_border=true" height="165" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr-Veronika&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Tr-Veronika&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tr-Veronika&layout=normal&langs_count=6&hide_progress=false&hide=jupyter%20notebook&card_width=400" width="400" />
 </p>
 
 <br>
