@@ -173,13 +173,17 @@ QA Engineer focused on Fullstack Testing, with a degree in Software Engineering 
 
 <br>
 
-## 📚 Professional Development
+## 📚 Professional Development & Internship
 
 - **QA Engineering** · 2026
+- **Recommendation Letter** · 2026
+- **Internship at the M-Garant project** · 2026
 - **DevOps Engineering & ICT Systems Administration** · 2023
 - **Applied Artificial Intelligence Analyst** · 2023
 
 [<img src="/QAStudio_QAEngineering.png" width="280px" hspace="10px" alt="QA Engineering Certificate">](https://raw.githubusercontent.com/Tr-Veronika/Tr-Veronika/refs/heads/main/QAStudio_QAEngineering.png)
+[<img src="/Recommendation_Letter.jpg" width="280px" hspace="10px" alt="QA Recommendation Letter">](https://raw.githubusercontent.com/Tr-Veronika/Tr-Veronika/refs/heads/main/Recommendation_Letter.jpg)
+[<img src="/Internship_Certificate_M-Garant.png" width="280px" hspace="10px" alt="QA Internship Certificate_M-Garan">](https://raw.githubusercontent.com/Tr-Veronika/Tr-Veronika/refs/heads/main/Internship_Certificate_M-Garant.png)
 [<img src="/diploma_DevOPS.png" width="280px" hspace="10px" alt="DevOps Engineering Diploma">](https://raw.githubusercontent.com/Tr-Veronika/Tr-Veronika/refs/heads/main/diploma_DevOPS.png)
 [<img src="/diploma_AI.png" width="280px" hspace="10px" alt="Applied Artificial Intelligence Diploma">](https://raw.githubusercontent.com/Tr-Veronika/Tr-Veronika/refs/heads/main/diploma_AI.png)
 
